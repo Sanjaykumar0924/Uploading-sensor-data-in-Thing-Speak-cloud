@@ -1,3 +1,5 @@
+#### Name: Sanjay Kumar H
+#### Reg No: 212223040182
 # EXP NO 3-Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
